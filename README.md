@@ -12,7 +12,6 @@
 - 💻 Passionate **Backend Developer** specializing in **Python** and **Django Framework**.
 - 🎓 Currently advancing my knowledge in Computer Science and Web Development.
 - ⚙️ Interested in RESTful API design, database modeling, and clean code architecture.
-- 🎮 In my free time, I enjoy gaming and reading.
 
 ---
 
@@ -52,7 +51,7 @@
 
 ---
 
-## 🔗 Connect with Me
+## 🔗 Contact Me
 
 <p align="left">
   <a href="mailto:bodyelkasaby@gmail.com">
