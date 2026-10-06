@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Abduallah El-kasaby 👋</h1>
-<h3 align="center">🐍 Backend Python & Django Developer | Tech & Gaming Enthusiast 🎮</h3>
+<h3 align="center">🐍 Backend Python & Django Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3776AB&center=true&vcenter=true&width=530&lines=Python+%26+Django+Developer;Building+Scalable+Backend+APIs;CS+Student+%26+Continuous+Learner" alt="Typing SVG" />
